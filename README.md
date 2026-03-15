@@ -17,7 +17,9 @@ The goal is to help retail businesses make **data-driven marketing and sales dec
 ## 🔗 Links
 - 📊 [Live Dashboard](https://retail-and-marketing-analytics.vercel.app/)
 - 📁 [Dataset](https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing)
-- 
+
+  
+![Dashboard](https://raw.githubusercontent.com/Anuraj-cyberfreak01/Retail_and_Marketing-_Analytics/main/Visualizations/Retail%20%26%20Marketing%20Final%20Dashboard.png)
 
 ## 🎯 Business Objectives
 
