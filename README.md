@@ -10,6 +10,15 @@ The goal is to help retail businesses make **data-driven marketing and sales dec
 
 ---
 
+## 📊 Live Dashboard
+
+👉 [Click here to view the dashboard](https://retail-and-marketing-analytics.vercel.app/)
+
+## 🔗 Links
+- 📊 [Live Dashboard](https://retail-and-marketing-analytics.vercel.app/)
+- 📁 [Dataset](https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing)
+- 
+
 ## 🎯 Business Objectives
 
 1. **Customer Segmentation** – Identify different customer groups based on purchasing behavior
